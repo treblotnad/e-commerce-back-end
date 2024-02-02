@@ -5,7 +5,6 @@ An e-commerce back end using sequelize, express.js and mysql
 ## To-Do
 
 make routes
-make models
 connect models
 
 run seeds
