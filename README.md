@@ -18,11 +18,20 @@ An e-commerce back end using sequelize, express.js and mysql
 
 ## Installation
 
-install it
+Need to initialize ecommerce_db.
+Then 'npm run seed #'
+Need to change .env.EXAMPLE with server credentials.
+Sample seed data is stored in seeds.sql
 
+Clone Github, and run:
+npm i
+Requires node.js@18+
+run with 'node server.js'
 ## Usage
 
 Video Link
+https://drive.google.com/file/d/1fM0a-LeN7IWlXTN_EXRrnWNJRCyjB2F7/view?usp=sharing
+
 
 ## Credits
 
